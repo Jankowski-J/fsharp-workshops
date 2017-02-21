@@ -1,0 +1,14 @@
+/App/Bowling/packages
+/App/Bowling/Bowling/obj
+/App/Bowling/Bowling/bin
+/App/Bowling/Bowling.Console/obj
+/App/Bowling/Bowling.Console/bin
+/App/Bowling/bowling.tests/obj
+/App/Bowling/bowling.tests/bin
+/App/Bowling/bowling.web/obj
+/App/Bowling/bowling.web/bin
+/App/Bowling/bowling.wpf/obj
+/App/Bowling/bowling.wpf/bin
+/App/Bowling/.fake
+/App/Bowling/bin
+/App/Bowling/.vs/Bowling/v14/*.suo
